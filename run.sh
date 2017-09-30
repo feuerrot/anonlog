@@ -36,5 +36,5 @@ else
 	venv_activate
 fi
 
-#rib_get
+rib_get
 run $@
